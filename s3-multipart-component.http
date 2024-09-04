@@ -1,0 +1,12 @@
+@s3_multipart_component_HostAddress = http://localhost:5114
+
+#GET {{s3_multipart_component_HostAddress}}/weatherforecast/
+#Accept: application/json
+
+GET {{s3_multipart_component_HostAddress}}/api/multipart
+Accept: application/json
+
+GET {{s3_multipart_component_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

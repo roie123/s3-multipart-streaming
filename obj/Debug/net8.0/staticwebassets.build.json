@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "XZklXRwoBh5MIrpvWpR59yqpLzgvf5/N1qB4IBndrSc=",
+  "Source": "s3-multipart-component",
+  "BasePath": "_content/s3-multipart-component",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
